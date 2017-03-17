@@ -1,0 +1,17 @@
+{
+  "name": "node_first",
+  "version": "1.0.0",
+  "description": "First project to create a fb chatbot",
+  "main": "index.js",
+  "scripts": {
+  	"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avash",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "request": "^2.79.0"
+  }
+}
